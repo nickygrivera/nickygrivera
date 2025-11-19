@@ -2,7 +2,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/nicole-gurumendi-rivera-2ab51b314" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nickygrivera"/></a>
+<a href="https://www.linkedin.com/in/nicole-gurumendi-rivera-2ab51b314/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nickygrivera"/></a>
 
   </p>
 <br>
