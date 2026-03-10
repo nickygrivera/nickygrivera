@@ -30,61 +30,7 @@
 
 <table align="left">
   <tr border="none">
-    <!-- PROYECTO 1 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>Beat them up</strong></p>
-      <p align="center">
-        <a href="(https://github.com/nickygrivera/BeatThem_Up.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BeatThemup" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 2 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>World Hardest Game</strong></p>
-      <p align="center">
-        <a href="https://github.com/nickygrivera/WorldHardestGame.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="WHG" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 3 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>BeyondDeath</strong></p>
-      <p align="center">
-        <a href="https://github.com/nickygrivera/Beyond_Death.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BD" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 4 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>Proyectos 3D</strong></p>
-      <p align="center">
-        <a href="https://github.com/nickygrivera/Proyecto3D.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="P3Dr" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 5 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>Space Shooter</strong></p>
-      <p align="center">
-        <a href="https://github.com/nickygrivera/Proy2D.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="P2D" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 6 -->
-    <td width="25%" align="center">
-      <p align="center"><strong>Diseño del Software</strong></p>
-      <p align="center">
-        <a href="https://github.com/trudytru30/DreamEater.git" target="_blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Juego Rol" />
-        </a>
-      </p>
-    </td>
-    <!-- PROYECTO 6 -->
+     <!-- PROYECTO 1 -->
     <td width="25%" align="center">
       <p align="center"><strong>Dream Eater</strong></p>
       <p align="center">
@@ -93,6 +39,70 @@
         </a>
       </p>
     </td>
+     <!-- PROYECTO 2 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>Beyond Death</strong></p>
+      <p align="center">
+        <a href="https://github.com/nickygrivera/Beyond_Death.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BD" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 3 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>World Hardest Game</strong></p>
+      <p align="center">
+        <a href="https://github.com/nickygrivera/WorldHardestGame.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="WHG" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 4 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>BeyondDeath</strong></p>
+      <p align="center">
+        <a href="https://github.com/nickygrivera/Beyond_Death.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BD" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 5 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>Proyectos 3D</strong></p>
+      <p align="center">
+        <a href="https://github.com/nickygrivera/Proyecto3D.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="P3Dr" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 6 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>Space Shooter</strong></p>
+      <p align="center">
+        <a href="https://github.com/nickygrivera/Proy2D.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="P2D" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 7 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>Diseño del Software</strong></p>
+      <p align="center">
+        <a href="https://github.com/trudytru30/DreamEater.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Juego Rol" />
+        </a>
+      </p>
+    </td>
+    <!-- PROYECTO 8 -->
+    <td width="25%" align="center">
+      <p align="center"><strong>Beat them up</strong></p>
+      <p align="center">
+        <a href="(https://github.com/nickygrivera/BeatThem_Up.git" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BeatThemup" />
+        </a>
+      </p>
+    </td>
+   
 
   </tr>
 </table>
