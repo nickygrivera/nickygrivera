@@ -1,13 +1,4 @@
-<div align="center">
-
-```
-███╗   ██╗██╗ ██████╗ ██████╗ ██╗     ███████╗
-████╗  ██║██║██╔════╝██╔═══██╗██║     ██╔════╝
-██╔██╗ ██║██║██║     ██║   ██║██║     █████╗  
-██║╚██╗██║██║██║     ██║   ██║██║     ██╔══╝  
-██║ ╚████║██║╚██████╗╚██████╔╝███████╗███████╗
-╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
-```
+# Nicole Gurumendi Rivera
 
 ### `Software Engineering Student · Game Developer · Creator`
 
@@ -27,6 +18,21 @@ Me apasiona crear experiencias interactivas que van más allá de la pantalla: d
 - 🧱 Experiencia en programación de sistemas, IA de juegos y diseño de niveles
 - 🛠️ Enfoque en código limpio, arquitecturas sólidas y rendimiento en tiempo real
 - 📚 Actualmente ampliando conocimientos en **computación gráfica** y **shaders**
+
+---
+
+## 🔥 Featured — Prototipos este cuatrimestre
+
+> Proyectos más recientes. Prototipos desarrollados este cuatrimestre desde cero.
+
+<div align="center">
+
+| 🎮 Egnis | 👁️ Omen |
+|:---:|:---:|
+| Prototipo de videojuego | Prototipo de videojuego |
+| [![Egnis](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/Egnis.git) | [![Omen](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/PrototipoII.git) |
+
+</div>
 
 ---
 
