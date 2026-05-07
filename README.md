@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nicole Gurumendi Rivera
+# Nicole Gurumendi Rivera ✨
 
 ### `Software Engineering Student · Game Developer · Creator`
 
