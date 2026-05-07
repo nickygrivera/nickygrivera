@@ -14,7 +14,6 @@
 ## `> about_me.exe`
 
 Estudiante de **Ingeniería del Software** con título propio en **Ingeniería de Videojuegos** en la [U-tad](https://www.u-tad.com/), Madrid.  
-Me apasiona crear experiencias interactivas que van más allá de la pantalla: desde el diseño de mecánicas hasta la arquitectura del código que las sostiene.
 
 - 🎮 Especializada en desarrollo de videojuegos con **Unity** y **Unreal Engine**
 - 📚 Actualmente ampliando conocimientos en **computación gráfica** y **shaders**
