@@ -17,8 +17,6 @@ Estudiante de **Ingeniería del Software** con título propio en **Ingeniería d
 Me apasiona crear experiencias interactivas que van más allá de la pantalla: desde el diseño de mecánicas hasta la arquitectura del código que las sostiene.
 
 - 🎮 Especializada en desarrollo de videojuegos con **Unity** y **Unreal Engine**
-- 🧱 Experiencia en programación de sistemas, IA de juegos y diseño de niveles
-- 🛠️ Enfoque en código limpio, arquitecturas sólidas y rendimiento en tiempo real
 - 📚 Actualmente ampliando conocimientos en **computación gráfica** y **shaders**
 
 ---
