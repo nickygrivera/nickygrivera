@@ -2,10 +2,8 @@
 
 # Nicole Gurumendi Rivera ✨
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Technical+Designer+%F0%9F%8E%AE;Gameplay+Programmer+%F0%9F%A4%96;Unreal+Engine+%2B+C%2B%2B+%E2%9A%99%EF%B8%8F;Shaders+%26+Graphics+learner+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Technical+Designer+%C2%B7+Gameplay+Programmer;Game+Developer+%C2%B7+Creator;Unreal+Engine+%2B+C%2B%2B;Shaders+%26+Graphics+learner" />
 </div>
-
-### `Software Engineering Student · Game Developer · Creator`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-gurumendi-rivera-2ab51b314/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickygrivera)
