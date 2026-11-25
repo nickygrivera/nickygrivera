@@ -20,7 +20,8 @@ Estudiante de **Ingeniería del Software** con título propio en **Ingeniería d
 - 🎮 Especializada en desarrollo de videojuegos con **Unreal Engine** (C++ y Blueprints) y **Unity**
 - 🧠 Ahora mismo programando **IA de enemigos, bosses y sistemas de juego** en **Egnis**
 - 📚 Ampliando conocimientos en **computación gráfica** y **shaders** (OpenGL, GLSL)
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B3FA0,50:BB9AF7,100:E8D2F4&height=3" width="100%" />
 
 ## `> featured_projects/` 🔥
 
@@ -115,7 +116,7 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 
 [![Ver repositorio](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickygrivera/BeatThem_Up.git)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B3FA0,50:BB9AF7,100:E8D2F4&height=3" width="100%" />
 
 ## `> tech_stack/`
 
