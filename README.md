@@ -161,14 +161,14 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&layout=compact&langs_count=8" width="40%" />
+<img src="https://streak-stats.demolab.com/?user=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&stroke=BB9AF7&ring=BB9AF7&fire=F7768E&currStreakLabel=BB9AF7&sideLabels=E8D2F4&dates=C0CAF5" width="49%" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickygrivera&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=E8D2F4&layout=compact&langs_count=8" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickygrivera&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E6E" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickygrivera&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB9AF7&line=BB9AF7&point=F7768E&title_color=BB9AF7" width="100%" />
 
 </div>
 
