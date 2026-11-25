@@ -1,6 +1,9 @@
 <div align="center">
 
 # Nicole Gurumendi Rivera ✨
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Technical+Designer+%F0%9F%8E%AE;Gameplay+Programmer+%F0%9F%A4%96;Unreal+Engine+%2B+C%2B%2B+%E2%9A%99%EF%B8%8F;Shaders+%26+Graphics+learner+%E2%9C%A8" />
+</div>
 
 ### `Software Engineering Student · Game Developer · Creator`
 
@@ -32,7 +35,7 @@ Estudiante de **Ingeniería del Software** con título propio en **Ingeniería d
 
 </div>
 
-### 🎮 Egnis — mi parte
+### 🎮 Egnis — Desarrollo
 
 Juego de cartas táctico por turnos sobre tablero isométrico, desarrollado en equipo en **Unreal Engine 5**.
 
@@ -40,8 +43,7 @@ Juego de cartas táctico por turnos sobre tablero isométrico, desarrollado en e
 - 👑 **Boss:** se mueve por fuera del tablero, invoca enemigos pagando su propia vida y lanza un ataque en línea con aviso previo.
 - 💀 **Miniboss:** segunda barra de vida que se gasta con el tiempo y los golpes; revive si mata a un héroe y encadena turnos extra.
 - 💾 **Sistema de guardado** en dos capas: progreso de la partida entre escenas y perfil entre partidas.
-- 🪵 **Obstáculos:** tronco destructible y cadáver explosivo *(en curso)*.
-- 🃏 **UI de combate:** mano de cartas en abanico, barras de vida y energía y fin de turno conectado con C++.
+- 🃏 **UI de combate:** mano de cartas en abanico, barras de vida y energía y fin de turno conectado con C++ de la primera versión de Egnis.
 
 > Primer prototipo de Egnis: [trudytru30/Egnis](https://github.com/trudytru30/Egnis.git)
 
@@ -171,8 +173,6 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nickygrivera&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=10&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nickygrivera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49%" />
 </div>
