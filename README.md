@@ -1,8 +1,9 @@
 <div align="center">
 
 # Nicole Gurumendi Rivera ✨
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Technical+Designer+%C2%B7+Gameplay+Programmer;Game+Developer+%C2%B7+Creator;Unreal+Engine+%2B+C%2B%2B;Shaders+%26+Graphics+learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=800&lines=Software+Engineering+Student+%C2%B7+Technical+Designer+%C2%B7+Gameplay+Programmer" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-gurumendi-rivera-2ab51b314/)
@@ -173,4 +174,8 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 
 <div>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nickygrivera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49%" />
+</div>
+
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D2F4,50:BB9AF7,100:6B3FA0&height=110&section=footer" width="100%" />
 </div>
