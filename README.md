@@ -15,24 +15,35 @@
 
 Estudiante de **Ingeniería del Software** con título propio en **Ingeniería de Videojuegos** en la [U-tad](https://www.u-tad.com/), Madrid.  
 
-- 🎮 Especializada en desarrollo de videojuegos con **Unity** y **Unreal Engine**
-- 📚 Actualmente ampliando conocimientos en **computación gráfica** y **shaders**
-
+- 🎮 Especializada en desarrollo de videojuegos con **Unreal Engine** (C++ y Blueprints) y **Unity**
+- 🧠 Ahora mismo programando **IA de enemigos, bosses y sistemas de juego** en **Egnis**
+- 📚 Ampliando conocimientos en **computación gráfica** y **shaders** (OpenGL, GLSL)
 ---
 
 ## `> featured_projects/` 🔥
-
-> Prototipos desarrollados este cuatrimestre — de cero a jugable.
 
 <div align="center">
 
 | 🎮 **Egnis** | 👁️ **Omen** |
 |:---:|:---:|
-| ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| Prototipo de videojuego en Unreal Engine | Prototipo de videojuego en Unity |
-| [![Ver repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/Egnis.git) | [![Ver repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/PrototipoII.git) |
+| ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Blueprints](https://img.shields.io/badge/Blueprints-313131?style=flat-square&logo=unrealengine&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| Juego de cartas táctico por turnos en equipo · **en desarrollo** | Prototipo de videojuego en Unity |
+| [![Ver repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/EgnisDefinitivo) | [![Ver repo](https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trudytru30/PrototipoII.git) |
 
 </div>
+
+### 🎮 Egnis — mi parte
+
+Juego de cartas táctico por turnos sobre tablero isométrico, desarrollado en equipo en **Unreal Engine 5**.
+
+- 🤖 **IA de enemigos:** acciones de combate en C++ para los Behavior Trees (ataque, escudo, cura, bufos, ataque en área, ejecución, taunt), rango en rombo con línea de visión, casillas alcanzables con **EQS** y director del turno enemigo.
+- 👑 **Boss:** se mueve por fuera del tablero, invoca enemigos pagando su propia vida y lanza un ataque en línea con aviso previo.
+- 💀 **Miniboss:** segunda barra de vida que se gasta con el tiempo y los golpes; revive si mata a un héroe y encadena turnos extra.
+- 💾 **Sistema de guardado** en dos capas: progreso de la partida entre escenas y perfil entre partidas.
+- 🪵 **Obstáculos:** tronco destructible y cadáver explosivo *(en curso)*.
+- 🃏 **UI de combate:** mano de cartas en abanico, barras de vida y energía y fin de turno conectado con C++.
+
+> Primer prototipo de Egnis: [trudytru30/Egnis](https://github.com/trudytru30/Egnis.git)
 
 ---
 
@@ -121,6 +132,10 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
+**Gráficos**  
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL_Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 **Web & BD**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -128,10 +143,12 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Herramientas & Cloud**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Diseño**  
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -143,7 +160,7 @@ Juego de acción en desplazamiento lateral con sistema de combate cuerpo a cuerp
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" width="49%" />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickygrivera&theme=tokyonight&hide_border=true&background=0D1117&layout=compact&langs_count=8" width="40%" />
 
 </div>
